@@ -1,0 +1,6 @@
+#Compiled files
+*.exe
+*.obj
+
+#debugging file
+*.pdb
